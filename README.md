@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tty
-- 👀 I’m interested in 3D imaging
+- 👋 Hi, I’m wowin110
+- 👀 I’m interested in optical metrology, 3D imaging
 - 🌱 I’m currently learning route planning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
